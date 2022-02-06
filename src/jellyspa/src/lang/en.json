@@ -1,0 +1,16 @@
+{
+  "count": "Inventory",
+  "Language": "Language",
+  "HoneyAss": {
+    "Step1": "1 step",
+    "Step2": "2 step",
+    "Current": "Current",
+    "Left": "Left"
+  },
+  "OtherItems": {
+    "Title": "Other items",
+    "SelectItem": "Select item",
+    "Formulas": "Formulas",
+    "Cost": "Cost"
+  }
+}
