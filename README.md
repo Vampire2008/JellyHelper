@@ -6,7 +6,7 @@ There is two options.
 
 ## Web version
 
-Just open *urlPlaceholder*.
+Just open http://jellyhelper.xyz.
 
 ## Desktop version (only Windows)
 
